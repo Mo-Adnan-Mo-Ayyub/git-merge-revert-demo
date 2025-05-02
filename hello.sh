@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hillo from node 20"
+echo "Hello world"
